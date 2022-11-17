@@ -2,7 +2,7 @@
 
 This is a handy cheat sheet for all things Twitch badges.<br>
 I assorted the most common ones you'd probably like to use.<br>
-The entire official list of the global badges can be found/accessed from [here](https://badges.twitch.tv/v1/badges/global/display).
+The entire official list of global badges can be found/accessed from [here](https://badges.twitch.tv/v1/badges/global/display).
 
 ## Global Badges
 staff ![staff](https://static-cdn.jtvnw.net/badges/v1/d97c37bd-a6f5-4c38-8f57-4e4bef88af34/1) `https://static-cdn.jtvnw.net/badges/v1/d97c37bd-a6f5-4c38-8f57-4e4bef88af34/1` <br>
@@ -39,7 +39,7 @@ Can be found under `https://badges.twitch.tv/v1/badges/channels/CHANNEL_ID/displ
 1  ![1 bit](https://static-cdn.jtvnw.net/badges/v1/73b5c3fb-24f9-4a82-a852-2f475b59411c/1) `https://static-cdn.jtvnw.net/badges/v1/73b5c3fb-24f9-4a82-a852-2f475b59411c/1`<br>
 100  ![100 bits](https://static-cdn.jtvnw.net/badges/v1/09d93036-e7ce-431c-9a9e-7044297133f2/1) `https://static-cdn.jtvnw.net/badges/v1/09d93036-e7ce-431c-9a9e-7044297133f2/1`<br>
 1000  ![1000 bits](https://static-cdn.jtvnw.net/badges/v1/0d85a29e-79ad-4c63-a285-3acd2c66f2ba/1) `https://static-cdn.jtvnw.net/badges/v1/0d85a29e-79ad-4c63-a285-3acd2c66f2ba/1`<br>
-5000  ![5000 bits](https://static-cdn.jtvnw.net/badges/v1/57cd97fc-3e9e-4c6d-9d41-60147137234e/1) `https://static-cdn.jtvnw.net/badges/v1/57cd97fc-3e9e-4c6d-9d41-60147137234e/1k`<br>
+5000  ![5000 bits](https://static-cdn.jtvnw.net/badges/v1/57cd97fc-3e9e-4c6d-9d41-60147137234e/1) `https://static-cdn.jtvnw.net/badges/v1/57cd97fc-3e9e-4c6d-9d41-60147137234e/1`<br>
 10000  ![10000 bits](https://static-cdn.jtvnw.net/badges/v1/68af213b-a771-4124-b6e3-9bb6d98aa732/1) `https://static-cdn.jtvnw.net/badges/v1/68af213b-a771-4124-b6e3-9bb6d98aa732/1`<br>
 25000  ![25000 bits](https://static-cdn.jtvnw.net/badges/v1/64ca5920-c663-4bd8-bfb1-751b4caea2dd/1) `https://static-cdn.jtvnw.net/badges/v1/64ca5920-c663-4bd8-bfb1-751b4caea2dd/1`<br>
 50000  ![50000 bits](https://static-cdn.jtvnw.net/badges/v1/62310ba7-9916-4235-9eba-40110d67f85d/1) `https://static-cdn.jtvnw.net/badges/v1/62310ba7-9916-4235-9eba-40110d67f85d/1`<br>
