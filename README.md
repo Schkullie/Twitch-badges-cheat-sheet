@@ -2,7 +2,7 @@
 
 This is a handy cheat sheet for all things Twitch badges.<br>
 I assorted the most common ones you'd probably like to use.<br>
-An entire list of the global badges can be found/accessed from here: https://badges.twitch.tv/v1/badges/global/display
+The entire official list of the global badges can be found/accessed from [here](https://badges.twitch.tv/v1/badges/global/display).
 
 ## Global Badges
 staff ![staff](https://static-cdn.jtvnw.net/badges/v1/d97c37bd-a6f5-4c38-8f57-4e4bef88af34/1) `https://static-cdn.jtvnw.net/badges/v1/d97c37bd-a6f5-4c38-8f57-4e4bef88af34/1` <br>
