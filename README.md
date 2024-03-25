@@ -2,7 +2,7 @@
 
 This is a handy cheat sheet for all things Twitch badges.<br>
 I assorted the most common ones you'd probably like to use.<br>
-The entire official list of global badges can be accessed via the Twitch API: https://dev.twitch.tv/docs/api/reference/#get-global-chat-badges
+The entire official list of global badges can be accessed via the Twitch API and needs an OAuth token: https://dev.twitch.tv/docs/api/reference/#get-global-chat-badges
 
 ## Global Badges
 staff ![staff](https://static-cdn.jtvnw.net/badges/v1/d97c37bd-a6f5-4c38-8f57-4e4bef88af34/1) `https://static-cdn.jtvnw.net/badges/v1/d97c37bd-a6f5-4c38-8f57-4e4bef88af34/1` <br>
@@ -22,7 +22,7 @@ no_video  ![no_video](https://static-cdn.jtvnw.net/badges/v1/199a0dba-58f3-494e-
 default subscriber  ![default subscriber](https://static-cdn.jtvnw.net/badges/v1/5d9f2208-5dd8-11e7-8513-2ff4adfae661/1) `https://static-cdn.jtvnw.net/badges/v1/5d9f2208-5dd8-11e7-8513-2ff4adfae661/1`<br>
 <br>
 **channel specific subscriber badge:**<br>
-Can be found under `https://badges.twitch.tv/v1/badges/channels/CHANNEL_ID/display` and accessed via API request
+Can be found under `https://api.twitch.tv/helix/chat/badges?broadcaster_id=CHANNEL_ID` and accessed via API request + OAuth token. [More info](https://dev.twitch.tv/docs/api/reference/#get-channel-chat-badges)
 
 ## sub-gifter
 1  ![1 sub](https://static-cdn.jtvnw.net/badges/v1/f1d8486f-eb2e-4553-b44f-4d614617afc1/1) `https://static-cdn.jtvnw.net/badges/v1/f1d8486f-eb2e-4553-b44f-4d614617afc1/1`<br>
